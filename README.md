@@ -1,8 +1,8 @@
 
 
-# Hi there 👋, I'm Siddhesh Boraste
+<h1 align="center"># Hi there 👋, I'm Siddhesh Boraste
 
-### Data Analyst | AI & Data Science Graduate
+<h1 align="center">### Data Analyst | AI & Data Science Graduate
 
 I'm an AI & Data Science graduate passionate about turning raw data into meaningful insights. I enjoy solving business problems through data analysis, creating interactive dashboards, and building data-driven solutions using SQL, Python, Excel, and Power BI.
 
@@ -112,5 +112,5 @@ I'm an AI & Data Science graduate passionate about turning raw data into meaning
 
 ---
 
-### ⭐ Thanks for visiting my profile! ⭐
+<h1 align="center">### ⭐ Thanks for visiting my profile! ⭐
 I'm always open to learning, collaborating, and building impactful data-driven solutions.
