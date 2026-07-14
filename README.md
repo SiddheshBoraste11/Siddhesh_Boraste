@@ -118,9 +118,9 @@
 
 ---
 
-<h1 align="center">
+<p1 align="center">
   ⭐ Thanks for visiting my profile! ⭐
-</h1> 
-<h1 align="center">
+</p1> 
+<p1 align="center">
 I'm always open to learning, collaborating, and building impactful data-driven solutions.
-</h1>
+</p1>
