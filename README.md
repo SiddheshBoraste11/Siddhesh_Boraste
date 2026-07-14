@@ -18,16 +18,14 @@
 
 ## 🚀 About Me
 
-* 🎓 AI & Data Science Graduate
-* 📊 Aspiring Data Analyst
-* 💡 Passionate about Data Analytics, Business Intelligence & Data Visualization
-* 🌱 Currently learning Advanced SQL, Power BI, Statistics, and Data Warehousing
-* 🎯 Interested in Data Analytics, Business Intelligence, and Decision Support Systems
-
-* 🎓 B.E. in Artificial Intelligence & Data Science (2025)
-* 📍 Pune, Maharashtra, India
-* 💼 Open to Data Analyst, Business Analyst, and Junior Data Engineer opportunities
-
+- 🎓 AI & Data Science Graduate (2025)
+- 📊 Aspiring Data Analyst passionate about solving business problems using data
+- 💻 Skilled in SQL, Python, Excel, Power BI, and Data Visualization
+- 📈 Experienced in building interactive dashboards and data-driven solutions
+- 🌱 Continuously learning Advanced SQL, Data Warehousing, Statistics, and Business Intelligence
+- 💼 Seeking full-time opportunities as a Data Analyst or Business Analyst
+- 📍 Pune, Maharashtra, India
+    
 ---
 
 ## 🛠️ Tech Stack
