@@ -14,7 +14,6 @@
 <p align="center">
   SQL • Python • Power BI • Excel
 </p>
----
 
 ## 🚀 About Me
 
