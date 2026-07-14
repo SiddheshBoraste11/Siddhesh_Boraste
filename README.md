@@ -116,10 +116,11 @@
 * 📧 Email: siddboraste11@gmail.com
 
 ---
+<div align="center">
 
-<p1 align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p1> 
-<p1 align="center">
+⭐ Thanks for visiting my profile! ⭐
+
 I'm always open to learning, collaborating, and building impactful data-driven solutions.
-</p1>
+
+</div>
+
